@@ -4,9 +4,11 @@ The purpose of this analysis is to replace the inaccurate data for the 9th grade
 
 ## Results
 Much of the metrics from the original analysis remained the same. This makes sense given that we had a large set of data, and removing only a small portion of the data (math and reading scores for 9th graders at Thomas High School) would not drastically skew the data. Below is the table from the original analysis, which includes the math and reading scores for 9th graders at Thomas High School.
+
 ![Original Metrics](https://github.com/caseychen3605/School_District_Analysis/blob/main/Resources/school_original_metrics.PNG)
 
 The following table is from the most recent analysis, where the math and reading scores for 9th graders at Thomas High School was removed.
+
 ![Updated Metrics](https://github.com/caseychen3605/School_District_Analysis/blob/main/Resources/school_edited_metrics.PNG)
 
 We can see that the only differences are the averages and percent passing at Thomas High School. Even with the removal of certain data, the overall results remained fairly the same.
