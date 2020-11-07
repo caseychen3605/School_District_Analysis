@@ -7,11 +7,9 @@ Much of the metrics from the original analysis remained the same. This makes sen
 
 ![Original Metrics](https://github.com/caseychen3605/School_District_Analysis/blob/main/Resources/school_original_metrics.PNG)
 
-The following table is from the most recent analysis, where the math and reading scores for 9th graders at Thomas High School was removed.
+The following table is from the most recent analysis, where the math and reading scores for 9th graders at Thomas High School was removed. We can see that the only differences are the averages and percent passing at Thomas High School. Even with the removal of certain data, the overall results remained fairly the same.
 
 ![Updated Metrics](https://github.com/caseychen3605/School_District_Analysis/blob/main/Resources/school_edited_metrics.PNG)
-
-We can see that the only differences are the averages and percent passing at Thomas High School. Even with the removal of certain data, the overall results remained fairly the same.
 
 ## Summary
 The four major changes that occurred is the number of total students, the number of students counted at Thomas High School, the average math and reading scores, and the overall percentages for math and reading at Thomas High School. The removal of data implies a decrease in the count of total students overall, and total students at Thomas High School, specifically for this analysis. And since the population amount was decreased, this leads to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, we can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
